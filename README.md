@@ -1,30 +1,75 @@
-🚀 **Desenvolvedor de Software em Transição: Python e PHP** 🚀
+<h1> Olá, eu sou o Flávio Bueno! 👋<br></h1>
 
-👨‍💻 **Especialista em Desenvolvimento PHP** 👨‍💻
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white <br>
+https://img.shields.io/badge/Portfolio-FF7130?style=for-the-badge&logo=Firefox-Browser&logoColor=white <br>
 
-Com uma sólida trajetória como desenvolvedor PHP, construí minha carreira desbravando desafios e contribuindo para projetos que impulsionam a eficiência e a inovação. Meu domínio em PHP permitiu-me criar soluções robustas e escaláveis, estabelecendo um padrão de excelência no desenvolvimento de software.
+<h2>🚀  Sobre Mim </h2></br>
 
-⚙️ **Transição Estratégica para Python** ⚙️
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Flávio Bueno"
+        self.role = "Desenvolvedor Python, Php e Flutter"
+        self.passion = "Transformar café em código ☕"
+        self.focus = ["Web Development", "Mobile Apps", "Clean Code"]    
+    def say_hi(self):
+        return "Bem-vindo ao meu mundo digital! 🚀"        
+dev = Developer()
+print(dev.say_hi())
+```
 
-Apaixonado por desafios e inovação, embarquei em uma jornada de transição para o universo Python. Atualmente, trago meu conjunto de habilidades para o desenvolvimento Python, explorando suas vastas possibilidades para criar soluções mais flexíveis e eficazes.
+<h2>🛠️ Tech Stack</h2><br>
+<h3>🔧 Backend <br> </h3>  
+https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 
-🤖 **Projetos de Automação e Web Scraping** 🤖
+<h3> 💻 Frontend <br> </h3>
 
-Minha nova fase inclui projetos inovadores de automação e web scraping, onde a agilidade e a precisão se tornam as palavras-chave. Desenvolvi sistemas automatizados que não apenas economizam tempo, mas também proporcionam insights valiosos, impulsionando a tomada de decisões informadas.
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white
 
-🖥️ **Desenvolvimento de Softwares Internos Sob Medida** 🖥️
+<h3>📱 Mobile <br></h3>  
+https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
 
-Colaborei no desenvolvimento de softwares internos personalizados, alinhados com as necessidades específicas da equipe e da organização. Minha abordagem centrada no usuário resultou em soluções intuitivas que melhoram a eficiência operacional.
+<h3> 📈 GitHub Stats <br> </h3>  
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlavioBuenoDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioBuenoDev&layout=compact&langs_count=7&theme=radical"/> </div>
 
-🌐 **Adaptabilidade e Aprendizado Contínuo** 🌐
+<h2>🔥 Projetos em Destaque</h2> <br>
+projeto-salao
 
-A capacidade de transitar entre diferentes tecnologias reflete minha abertura para a aprendizagem contínua. Mantenho-me atualizado(a) com as últimas tendências e práticas de desenvolvimento, garantindo que minhas contribuições estejam sempre à frente do cenário tecnológico.
+<h2>🎯 Projeto Principal</h2> <br>
+Sistema completo de Agendamento 
 
-💬 **Conecte-se para Explorar Sinergias Python e PHP** 💬
+<h2>🚀 App Inovador</h2> <br>
+https://play.google.com/store/apps/details?id=com.unihospsaude.unihospapp&hl=pt_BR
 
-Estou aberto(a) a conexões com profissionais apaixonados por desenvolvimento, automação e inovação. Juntos, podemos explorar as sinergias entre PHP e Python, impulsionando o desenvolvimento de soluções ainda mais poderosas.
+<h2>🎯 Metas para 2026</h2> <br>
+🚀 Lançar 3 projetos open source
 
-<---
-FlavioBuenoDev/FlavioBuenoDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📱 Publicar app na Play Store/App Store
+
+🌐 Dominar uma nova tecnologia
+
+
+<h3>💼 Disponível para</h3>
+💻 Desenvolvimento de projetos inovadores
+
+🤝 Colaborações em open source
+
+🎯 Freelance e oportunidades remotas
+
+💡 Mentoria e pair programming
+
+📫 Vamos Conversar!
+
+<hr>
+
+```bash
+# Clone este repositório (metafórico 😄)
+git clone https://github.com/FlavioBuenoDev
+cd collaboration
+npm start # nossa conversa!
+"Code is poetry, and every bug is just a misunderstood verse." 🎨
+```
