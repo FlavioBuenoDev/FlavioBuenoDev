@@ -1,7 +1,8 @@
 <h1> Olá, eu sou o Flávio Bueno! 👋<br></h1>
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white <br>
-https://img.shields.io/badge/Portfolio-FF7130?style=for-the-badge&logo=Firefox-Browser&logoColor=white <br>
+<a href="https://www.instagram.com/universo.python/" rel="nofollow">
+<img src="https://camo.githubusercontent.com/c8bd82d89314e366e096370c91aa3551ed65626c3da39b485720548d873d241f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f6c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="[https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white https://img.shields.io/badge/Portfolio-FF7130?style=for-the-badge&logo=Firefox-Browser&logoColor=white)" style="max-width: 100%;"></a>    
+
 
 <h2>🚀  Sobre Mim </h2></br>
 
@@ -18,20 +19,19 @@ dev = Developer()
 print(dev.say_hi())
 ```
 
-<h2>🛠️ Tech Stack</h2><br>
+<h2>🛠️ Tech Stack</h2>
 <h3>🔧 Backend <br> </h3>  
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+<img alt="Static Badge" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Php-ffffff?style=for-the-badge&logo=php" />
 
 <h3> 💻 Frontend <br> </h3>
 
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
-https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
 <h3>📱 Mobile <br></h3>  
-https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 
 <h3> 📈 GitHub Stats <br> </h3>  
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlavioBuenoDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioBuenoDev&layout=compact&langs_count=7&theme=radical"/> </div>
