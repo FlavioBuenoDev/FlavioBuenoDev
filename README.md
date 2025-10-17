@@ -1,4 +1,4 @@
-🚀 **Desenvolvedor de Software em Transição: PHP para Python** 🚀
+🚀 **Desenvolvedor de Software em Transição: Python e PHP** 🚀
 
 👨‍💻 **Especialista em Desenvolvimento PHP** 👨‍💻
 
