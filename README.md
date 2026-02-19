@@ -38,28 +38,28 @@ print(dev.say_hi())
 
 <h2>🔥 Projetos em Destaque</h2> <br>
 projeto-salao
+Aplicativo Unihosp Saude
+Aplicativo Biovidasaude
+barbearia_agenda
 
 <h2>🎯 Projeto Principal</h2> <br>
-Sistema completo de Agendamento 
+Sistema completo de Agendamento
+Plataforma atendimento ao beneficiario
 
 <h2>🚀 App Inovador</h2> <br>
 https://play.google.com/store/apps/details?id=com.unihospsaude.unihospapp&hl=pt_BR
+https://play.google.com/store/apps/details?id=com.biovidaapp.biovidaapp&hl=pt_BR
 
 <h2>🎯 Metas para 2026</h2> <br>
 🚀 Lançar 3 projetos open source
-
 📱 Publicar app na Play Store/App Store
-
 🌐 Dominar uma nova tecnologia
 
 
 <h3>💼 Disponível para</h3>
 💻 Desenvolvimento de projetos inovadores
-
 🤝 Colaborações em open source
-
 🎯 Freelance e oportunidades remotas
-
 💡 Mentoria e pair programming
 
 📫 Vamos Conversar!
