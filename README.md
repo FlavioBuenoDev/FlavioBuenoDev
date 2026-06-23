@@ -32,11 +32,11 @@ print(dev.say_hi())
 <h3>📱 Mobile <br></h3>  
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 
-<h3> 📈 GitHub Stats <br> </h3>  
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlavioBuenoDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioBuenoDev&layout=compact&langs_count=7&theme=radical"/> </div>
-
 <h3>💻 WorkFlow <br></h3>
 <img src="https://img.shields.io/badge/n8n-Workflows-orange?style=for-the-badge&logo=n8n" />
+
+<h3> 📈 GitHub Stats <br> </h3>  
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlavioBuenoDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioBuenoDev&layout=compact&langs_count=7&theme=radical"/> </div>
 
 <h2>🔥 Projetos em Destaque</h2> <br>
 projeto-salao
